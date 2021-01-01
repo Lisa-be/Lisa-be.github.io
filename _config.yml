@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: 加油！打工狗！
+title: Come On 
 subtitle:
-description: 最重要的是，不要放弃希望！
+description: bufangqi
 author: Yanyan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -75,7 +75,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: assets/milk1.jpg
+favicon: /assets/milk1.jpg
 
 # Set default keywords (Use a comma to separate)
 keywords: "Jekyll, NexT"
@@ -237,7 +237,7 @@ social_icons:
 
 # Sidebar Avatar
 in directory: 
-avatar: assets/bravedog.jpg
+avatar: /assets/bravedog.jpg
 
 
 # Table Of Contents in the Sidebar
